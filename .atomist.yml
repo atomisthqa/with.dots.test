@@ -1,0 +1,14 @@
+---
+kind: "operation"
+client: "com.atomist:rug"
+version: "1.0.0-20170609011313"
+generator:
+  name: "NewRugProject"
+  group: "atomist"
+  artifact: "rug-rugs"
+  version: "0.31.1"
+  parameters:
+    - "owner": "com.atomist"
+    - "description": "short description"
+    - "version": "0.1.0"
+
